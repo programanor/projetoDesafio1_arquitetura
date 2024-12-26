@@ -1,0 +1,41 @@
+/* RESPONSIVIDADE CABECALHO II */
+@media(max-width:860px){
+    .textLetr_II{
+        margin-left:35px;
+    }  
+
+}
+
+
+@media(max-width:450px){
+
+#cabecalhoII{
+    background-color: rgba(224, 236, 246, 0.811);
+}
+    .textLetr_II{
+        margin-top:40px;
+        font-size:11px;
+    }
+    strong{
+        font-size:20px;
+    }
+}
+@media(max-width:360px){
+    .textLetr_II{
+        margin-top:35px;
+        margin-left:15px;
+
+    }
+    
+}
+@media(max-width:290px){
+    .textLetr_II{
+        margin-top:25px;
+        margin-left:5px;
+
+    }
+    strong{
+        font-size:16px;
+    }
+
+}
